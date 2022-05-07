@@ -1,0 +1,12 @@
+
+#choice {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 217px;
+    height: 20px;
+    right: 295px;
+    top: 53px;
+}
